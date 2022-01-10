@@ -3,9 +3,6 @@
 
 ## Table of Contents
 * [Installation](#installation)
-* [Usage](#usage)
-* [Methodology](#methodology)
-* [License](#license)
   
 
 ## Installation
